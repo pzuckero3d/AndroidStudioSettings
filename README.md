@@ -4,7 +4,7 @@
 - Font: Fira Code
 - Macros:
   - Ctrl + S: SaveAll, ReformatCode, OptimizeImports, AutoIndentLines
-- Logcat:
+- Logcat colors:
   - Assert: #BA68C8
   - Debug: #2196F3
   - Error: #F44336
